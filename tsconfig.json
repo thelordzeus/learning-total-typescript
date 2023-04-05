@@ -10,7 +10,7 @@
     "isolatedModules": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "strict": true,
+    "strict": true, // enable all strict type-checking options
     "skipLibCheck": true
   },
   "include": [
